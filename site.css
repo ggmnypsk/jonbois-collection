@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  margin: 3vh;
+}
+
+a img {
+  width: 600px;
+}
